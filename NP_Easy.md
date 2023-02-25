@@ -36,7 +36,7 @@
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/sameergupta4873/no-code-DL)
+- [GitHub Repository](https://github.com/sameergupta4873/NP_NFT)
 - [Presentation link](https://www.canva.com/design/DAFbjubmo5g/qk712Ov1dPzeL6Q41n6Lsw/edit?utm_content=DAFbjubmo5g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Demo Video](https://drive.google.com/file/d/1VPqaqfaQUCotjAsirFXrHRodexmo9zg8/view?usp=sharing)
 
