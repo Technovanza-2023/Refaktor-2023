@@ -17,7 +17,7 @@ Also We have provided Secured Razorpay Payment Gateway for Payment.
 In the Accounts Section user can see details of his Appointments and Can Download PDF.
 
 
-GITHUB REPOSITORY LINK :- https://github.com/mandar1333/VJTIDynamicSolution.git
+GITHUB REPOSITORY LINK :-  https://github.com/Mani-dev8/DynamicSolutionVJTI
 
 PPT link :- https://mega.nz/file/ZMI33aTa#ESIKmjFqifkoTjRQBLoOX-sQjUMeU5VtL5JYPUK6kKY
 
@@ -28,6 +28,9 @@ PPT link :- https://mega.nz/file/ZMI33aTa#ESIKmjFqifkoTjRQBLoOX-sQjUMeU5VtL5JYPU
 To install this application, follow these steps:
 
 Needs XAMPP server Application Installed.
+
+Import the database that has been provided in the folder structure to get all data , and use this database name in the .env file of the project.
+
 1. Clone the repository to your local machine Using GitBash or Visual Studio Code.
 2. Cd DynamicSolutionVJTI
 3. 'Composer update' (cmd)
