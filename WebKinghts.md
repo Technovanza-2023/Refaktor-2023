@@ -17,4 +17,11 @@
               
   backend -> npm i
              nodemon/node index.js
+             
+4. Login Credentials 
+          email:bqwennzen@gmail.com
+          password:123456
+          
+5. Please use og mail for signup and mail functionality
+          
           
