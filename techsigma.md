@@ -4,7 +4,8 @@
         </p>
 <h1 align="center"> CryptoNaut </h1>
 <h3 align="center"> Blockchain Based NFT marketplace DApp where users mint and Trade ERC721 implemented NFTs<h3>
-<h3>ppt link:https://docs.google.com/presentation/d/11NpGwS5DyFeG80rpskJG4kBqHfqmW1ziARqbc5Kd308/edit#slide=id.g205d1431386_1_2<h3>
+<h6>ppt link:https://docs.google.com/presentation/d/11NpGwS5DyFeG80rpskJG4kBqHfqmW1ziARqbc5Kd308/edit#slide=id.g205d1431386_1_2<h6>
+ <h6>repo link : https://docs.google.com/presentation/d/11NpGwS5DyFeG80rpskJG4kBqHfqmW1ziARqbc5Kd308/edit#slide=id.g205d1431386_1_2</h6>
 <div align="center">
   
  
