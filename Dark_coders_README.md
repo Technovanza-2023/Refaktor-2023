@@ -20,7 +20,7 @@
 
 - GitHub Client Repo link: [Link to repository](https://github.com/AS-the-Tech/fungtrix-client)
 - GitHub Server Repo link: [Link to repository](https://github.com/AS-the-Tech/fungtrix-server)
-- Presentation File link: [Link to PPTX](https://docs.google.com/presentation/d/1rFqfiOH0IEJ3zvrYvgwXlvwDDLZdLG9w/edit#slide=id.p40)
+- Presentation File link: [Link to PPTX](https://docs.google.com/presentation/d/1jhr2Grgf_AKM9oqpbt3LYz3n2EfEH9rh/edit#slide=id.p7)
 
 ## Technology stack
 
